@@ -3,7 +3,7 @@
 
 Based on the work of Emanuele Dalsasso, post-doctoral researcher at CNAM and Telecom Paris.
 
-Speckle fluctuations seriously limit the interpretability of synthetic aperture radar (SAR) images. This package provides despeckling methods that can highly improve the quality and interpretability of SAR images.
+Speckle fluctuations seriously limit the interpretability of synthetic aperture radar (SAR) images. This package provides despeckling methods that can highly improve the quality and interpretability of SAR images. Both Stripmap and Spotlight operations are handled by this package.
 
 The package contains both test and train parts, wether you wish to despeckle a single pic (test) or use our model to build or improve your own.
 
